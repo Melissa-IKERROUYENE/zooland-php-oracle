@@ -104,8 +104,3 @@ Mot de passe initial : **`zoo26`**. À la première connexion, l’application i
 Le gestionnaire permet de parcourir les principales opérations de gestion. Le dirigeant et les autres métiers disposent de droits distincts : l’absence d’un bouton peut correspondre à une restriction prévue pour ce rôle.
 
 Les dates des formulaires se saisissent au format **JJ/MM/AAAA**. Les champs facultatifs peuvent rester vides.
-
-## Auteures
-
-**Melissa IKERROUYENE · Heba NAKSHO**  
-Université de Picardie Jules Verne — Projet universitaire de bases de données.
