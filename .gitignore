@@ -1,0 +1,7 @@
+/config.local.php
+/public_html/myparam.inc.php
+.env
+*.log
+.DS_Store
+__MACOSX/
+Thumbs.db
