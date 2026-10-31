@@ -22,7 +22,7 @@ Les écrans de liste, d’ajout, de modification et de suppression reposent sur 
 
 La base comprend **21 tables**, avec clés primaires simples ou composées et contraintes de référence. L’application utilise des requêtes paramétrées, des sessions PHP, des mots de passe hachés avec bcrypt et des jetons de protection des formulaires POST.
 
-Le rapport présente les MCD, leurs évolutions, les choix de conception et les travaux SQL. Le script `sql/installation.sql` décrit le schéma effectivement utilisé par l’application.
+Le script `sql/installation.sql` décrit le schéma effectivement utilisé par l’application.
 
 ## Contenu du dépôt
 
@@ -33,7 +33,6 @@ Le rapport présente les MCD, leurs évolutions, les choix de conception et les 
 | `sql/installation.sql` | Création des tables et chargement des données de démonstration |
 | `sql/requetes.sql` | Requêtes d’analyse réalisées dans le cadre du projet |
 | `sql/suppression.sql` | Suppression des tables, pour une réinitialisation volontaire |
-| `docs/Rapport-base-de-donnees.pdf` | Rapport universitaire de conception et de réalisation |
 
 ## Installation
 
