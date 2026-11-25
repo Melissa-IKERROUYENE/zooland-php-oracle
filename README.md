@@ -4,6 +4,14 @@ Application web PHP reliée à une base Oracle pour centraliser les informations
 
 Projet universitaire de bases de données réalisé à l’Université de Picardie Jules Verne, associant modélisation conceptuelle, conception relationnelle, requêtes SQL et développement d’une interface web.
 
+## Aperçu
+
+![Aperçu de Zoo’land : tableau de bord, animaux et recherches](docs/apercu.gif)
+
+## Démonstration vidéo
+
+https://github.com/user-attachments/assets/fe6adb20-8611-473d-945d-5258f7428b98
+
 ## Fonctionnalités
 
 - **Animaux et espèces** : consultation des fiches, recherche, gestion des caractéristiques, filiations et compatibilités de cohabitation.
